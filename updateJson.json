@@ -6,7 +6,7 @@
         "build_type": "desktop",
         "store": "https://dl.commchat.com/releases/windows/latest/CommChatSetup_1.2.18.exe",
         "is_store_link": false,
-        "minversion_code": "1.2.18",
+        "minversion_code": "1.2.99",
         "android_min_version": "2.2.0",
         "ios_min_version": "2.2.0",
         "db_version": 6,
