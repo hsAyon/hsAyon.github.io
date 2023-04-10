@@ -1,15 +1,15 @@
 {
     "success": {
         "os": "windows",
-        "version_name": "1.2.20",
-        "version_code": "1.2.20",
-        "build_type": "desktop-agent",
-        "store": "https://dl.commchat.com/releases/windows/latest/CommChat-1.2.12.exe",
+        "version_name": "1.2.99",
+        "version_code": "1.2.99",
+        "build_type": "desktop",
+        "store": "https://dl.commchat.com/releases/windows/latest/CommChatSetup_1.2.18.exe",
         "is_store_link": false,
-        "minversion_code": "1.2.20",
+        "minversion_code": "1.2.18",
         "android_min_version": "2.2.0",
         "ios_min_version": "2.2.0",
-        "db_version": 5,
-        "changelog": ""
+        "db_version": 6,
+        "changelog": "Test: Json update by Nafiz"
     }
 }
