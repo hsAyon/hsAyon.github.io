@@ -1,8 +1,8 @@
 {
     "success": {
         "os": "windows",
-        "version_name": "1.2.67",
-        "version_code": "1.2.67",
+        "version_name": "1.2.77",
+        "version_code": "1.2.77",
         "build_type": "desktop",
         "store": "https://dl.commchat.com/releases/windows/latest/CommChatSetup_1.2.67.exe",
         "is_store_link": false,
